@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">20180410-REDDY-NYCSchools</string>
+    <string name="math_Score">Score in Math:\t</string>
+    <string name="reading_Score">Score in Reading:\t </string>
+    <string name="writing_Score">Score in Writing:\t </string>
+    <string name="no_of_tests">No of tests taken:\t </string>
+</resources>
